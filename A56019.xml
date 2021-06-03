@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal of special advantage to this nation and posterity</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56019</idno><idno type="EEBO-CITATION">99828552</idno>
+  <idno type="VID">32981</idno>
+  <idno type="EEBO-PROQUEST">2240869696</idno>
+  
+            <idno type="STC">Wing P3707E</idno>
+            <idno type="STC">ESTC R216835</idno>
+            <idno type="PROQUEST">99828552</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828552e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2176:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal of special advantage to this nation and posterity</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Rich. Preston, in Turn-Stile Alley in Holborn,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A theory concerning the value of credit and the use of money.</note>
+                  <note>Cropped at head, affecting pagination.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:32981:1"/>
+            <pb n="1" facs="tcp:32981:1"/>
+            <head>A PROPOSAL OF Special Advantage TO THIS NATION AND POSTERITY.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the necessity of the case hereafter de<g ref="char:EOLhyphen"/>clared, hath put me upon giving this Ge<g ref="char:EOLhyphen"/>neral accompt, of the fruits of many years labours past; and though the undertaking may seem too much to be mentioned be<g ref="char:EOLhyphen"/>fore performance, yet as there is nothing here pretended, but what upon tryal will prove true, so if it could have been avoided, not any thing at all had been said of this matter, before the evidence on which it depends had made it to appear. But that (the case considered) being not possible, (as the Sequel will shew) judging my longer silence in this thing not excusable, I must submit to the hazzard of the Readers censure, and proceed.</p>
+            <p>Having considered then the nature of Credit groun<g ref="char:EOLhyphen"/>ded on known security, and how improvable it is by good management, I am first to declare somthing in ge<g ref="char:EOLhyphen"/>neral of what I find touching the effects of that Improve<g ref="char:EOLhyphen"/>ment; and this with faithfulness, representing things no otherwise than they are, I shall endeavour accordingly.</p>
+            <pb n="2" facs="tcp:32981:2"/>
+            <p> I find then that by Authority, Credit (though with<g ref="char:EOLhyphen"/>out enforcing any to take it,) is capable of being made more currant than the best money, so as money shall be constantly exposed to exchange for it, much faster than accepted.</p>
+            <p>That of Credit thus currant and grounded on sufficient Security, we may have enough to do what with never so much money were possible and fit, and for it may have Gold and Silver it self at command, at any time more than we would desire.</p>
+            <p>That this is the same with money enough lent a Na<g ref="char:EOLhyphen"/>tion without Interest, and for ever, or rather given them upon condition it shall not be employed to the maintai<g ref="char:EOLhyphen"/>ning of Idleness, or any hostility injurious to Prince or People. I find it is much better for acquiring all the good effects of money, though never so much, given without any condition at all; whether for adding to the Reve<g ref="char:EOLhyphen"/>nues of the Crown, maintaining (not sparingly) the poor and publick Charges; profitably imploying all that want imployment, according to their best capacity; Stocking and peopling of Forreign Plantations, or our own Countrey with the Fishery to the full; uttering all useful Commodities as fast as needs, preventing all ca<g ref="char:EOLhyphen"/>sual Trust and running in Debt; acquiring speedily (to share between King and Subjects) Riches to superflui<g ref="char:EOLhyphen"/>ty; recovering the Market abroad, with Shipping, Sea<g ref="char:EOLhyphen"/>men and people upon the Coast, from the <hi>Dutch</hi> and others; and many more the like, which to enumerate would seem but vanity.</p>
+            <p>I confess it can no where effectually be practised with<g ref="char:EOLhyphen"/>out Authority; that it is not practicable in <hi>England</hi> alone, but in other places; nor any where without preserving the welfare of the people as well as the Government; On whose behalf it not only prevents poverty, Debts and Imprisonments, but secures their liberty in things Civil
+<pb n="3" facs="tcp:32981:2"/>and Religious, for the truth is, the Credit thus grounded on Security, will not continue so well currant, without maintaining the Peace, Freedome and welfare of Trade, and therefore also of the Traders and other Subjects.</p>
+            <p>And besides, as it enables Princes to maintain men e<g ref="char:EOLhyphen"/>nough civilly imployed, more than they yet have, so it puts them for increase of people, upon a strife, who shall give the best Terms, to old or new come Subjects.</p>
+            <p>Yet on the other side, in behalf of the Government, it makes Rebellion impracticable, tends, and enables to people a Countrey in every part, to multiply Seamen, and Inhabitants on the Coast, ro amplifie the Domini<g ref="char:EOLhyphen"/>on and greatness of the Throne, with its Riches in abun<g ref="char:EOLhyphen"/>dance, to Fortifie, as much as money can do, every part of a Nation against hostile Injuries, and prevents totally the least Danger to the Government, by the peoples prosperity.</p>
+            <p>It is true, that Prince who is first in the practice of it, shall not only establish his Government at home, but be<g ref="char:EOLhyphen"/>come much more rich, powerful and over awing, with re<g ref="char:EOLhyphen"/>spect to others about him. And if his Countrey be ca<g ref="char:EOLhyphen"/>pable of a universal Trade, as <hi>England,</hi> this Advantage of being first in it is incomparably the greatest; one main use of it consisting, as is said, in so suddain an ingrossing of the Market and Sea from all other Nations to it self, as it seems not possible to be afterwards recovered from him again, by the same or any other means; to which it hath a most powerful tendency: Affording also main<g ref="char:EOLhyphen"/>tainance enough for a great <hi>Navy,</hi> to guard the Trade and Market thus acquired.</p>
+            <p>So as indeed this Design being understood, it prevails u<g ref="char:EOLhyphen"/>niversally for its practice, by putting the Princes and Pow<g ref="char:EOLhyphen"/>ers of Nations upon an earnest endeavour to be first in the attempt, lest others having the same capacity should do the same and prevent them; and operates in like man<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:32981:3"/>as Bags of money thrown among a people in abun<g ref="char:EOLhyphen"/>dance, where those that make not haste to gather up with the first, shall not only be less rich, but less power<g ref="char:EOLhyphen"/>ful, and more under the Awe, Command, and Govern<g ref="char:EOLhyphen"/>ment of the rest.</p>
+            <p>So as in Sum, it amounts to a kind of Art, which were it made known to the World, would cause the Princes of the Earth to strive who shall be first in doing that which will unavoidably redeem mankind from Sorrow and misery; yet so as the Doers shall have no cause at all to wish it otherwise, but exceedingly the contrary; and so as to reward those most that are speediest in it.</p>
+            <p>These things may seem strange, but I hope in the end it will appear, that I have advanced no further in any of them, than truth and full conviction hath gone before me. However, I affirm no Miracles; for though saying is not proving, yet nothing incredible is asserted; that money (more than enough) would do great things, is no wonder; that Credit (more currant than money) should do the same, is not very improbable; that every neigh<g ref="char:EOLhyphen"/>bourhood for themselves, may have Tokens of Credit, currant enough, as well as every Chandler his farthings, is not so strange; that of these there may be enough to do whatsoever, with never so much money, were possible and sit to be done, is not incredible. And that the Cre<g ref="char:EOLhyphen"/>dit of whole Societies should be so currant, as to com<g ref="char:EOLhyphen"/>mand money faster than needs, is so far from being im<g ref="char:EOLhyphen"/>possible, as it is matter of Fact already practised, though not in that way indeed as it is capable of being best improved.</p>
+            <p>Twenty years at Seasons the study of these things hath been ripening in me; and what wonder if a man of mean parts and slow capacity, in so long a time, come to see something in it more than others, and which they cannot in a momen pierce through and through; that
+<pb facs="tcp:32981:3"/>there is in Credit a capacity of being much improved be<g ref="char:EOLhyphen"/>yond what yet it is, is that which most who know any thing at all of it, do agree in; and what marvel if one that hath taken it so much to task, hath found some<g ref="char:EOLhyphen"/>thing of it.</p>
+            <p>I know men are apt to be fond of what is their own, but it is not upon my own single Judgment neither that I assert these things, being such as for the most part have been privately discoursed for some years past, with friends, such as being men of parts and capacity I thought I could trust, to whom (not a few) they have seemed very credible, and to the most of them, by their own confession, demonstrable.</p>
+            <p>The Difficulty in bringing these things to effect, lies not in the practice, if established by Authority, nor in their want of prevalency enough with Authority for that establishment, if throughly understood by them; but merely in the making of them to be so understood.</p>
+            <p>Loth I am that this discovery should be made known at once to the world in general, and not first here at home if it may be. But here is the difficulty.</p>
+            <p>For supposing the King and Parliament had as much money given them as they would desire, it would be found for divers reasons to require some time and trouble to understand how it might be put into safe hands, and how best disposed of; And though I know, as to what is proposed, the trouble, whether as to understanding or practice, is no more at all, than such a settlement requires if it were money it self; and the advantage no less; and that could the money it self be produced to sight, it would be thought to merit treble the pains of that con<g ref="char:EOLhyphen"/>sideration such a settlement requires; yet such ocular demonstration wanting, there is no reason to expect, that those in places of chiefest Government, should presently believe such a thing, so far as to afford time enough
+<pb facs="tcp:32981:4"/>from their weighty affairs, to examine the truth of it.</p>
+            <p>For though these things are capable of as clear an evi<g ref="char:EOLhyphen"/>dence as any thing Mathematical, yet the conclusion is very remote, and requires a long Tract of close reasoning, like that necessary to a Science, which to teach by word of mouth (especially where there is no Book of that Art in being,) requires to the apprehending of it much solitude, time, and patience; Now to expect this of Princes and Statesmen, before they can see any reason for it, were a high presumption; and to hope after this manner, to communicate it to so great a number of them, as whose consent may be necessary to the making of a Law; ridiculous, and a Task impossible for many Assi<g ref="char:EOLhyphen"/>stants, and much more for one single man to accomplish, though he could afford to bestow his whole life time on nothing else.</p>
+            <p>And for offering nothing but the bare Bones as it were of Laws necessary to the proposed ends; this I have thought of; but to do this, without shewing the utmost bounds of what will follow upon such laws, would I fear, among those that have not time to wade into it, beget prejudice, but no acceptance. And though if a Trea<g ref="char:EOLhyphen"/>sure inexhaustible were at command, we could not ex<g ref="char:EOLhyphen"/>pect the fruit of it without a strange change of affairs, and new Scene of things, (though all for the better,) nor would refuse it merely for the novelty of those good effects, which so important a thing must needs be attended with; yet to propose barely the laws for such a great Change, whilst the Legislators themselves are not fully satisfied of what they may extend unto, nor with<g ref="char:EOLhyphen"/>out a Book to discover the whole, cannot spare time e<g ref="char:EOLhyphen"/>nough to inquire into it; what reasonable man in this case can expect their approbation?</p>
+            <p>Now as to the preparing such a Book, that also is ob<g ref="char:EOLhyphen"/>structed, for the matter, being a kind of Science, which
+<pb facs="tcp:32981:4"/>comprehends so many necessary parts, that must be hand<g ref="char:EOLhyphen"/>led, as is said, in a close way of reasoning, requires that time, labour, manual assistance, solitude, and seque<g ref="char:EOLhyphen"/>stration from all other business, as truly at my own charge I am not in any capacity to afford. Not but that with time and labour enough, the whole discourse might be brought into a little room; but then it is more easie to write ten Books of equal bigness, in a loose and ordinary Style, than one in the other.</p>
+            <p>The Premises considered, some unwilling that a work of this nature, should die with my self, (being now in years,) and not be preserved to posterity, advised me thus to declare and leave it to others to consider of; which though I was loath to do, yet rather than be guilty of neglecting any thing that might seem to lie on me as duty in this affair. I have yielded to it.</p>
+            <p>Now how far these Advertisements will be thought with most men to deserve regard or encouragement (though I have cause to hope they may with some) is not so much my Concern; but leaving nothing undone that to me is possible in this thing, be the Issue what it pleases God, the fault shall no more be mine.</p>
+            <p>It was to this end I say, and not to oftentate, that I was forced to say something in this behalf, which how<g ref="char:EOLhyphen"/>ever it may seem too much, I think I have not made the most of it. I know in some things one may forfeit repu<g ref="char:EOLhyphen"/>tation, by saying no more than truth; nor is it that I have no sense at all of what it is to be exposed to Con<g ref="char:EOLhyphen"/>tempt: but he is no honest man that will not sacrifice, credit and life too, where he is convinced the Welfare of his King, Countrey, and Posterity is concer<g ref="char:EOLhyphen"/>ned.</p>
+            <p>However, as I said before, I affirm no Miracles, nor is it civil to judg a matter before heard, especially when nothing but what is possible enough, is constantly and
+<pb facs="tcp:32981:5"/>seriously affirmed, by one known I hope not to be dis<g ref="char:EOLhyphen"/>honest or unsober.</p>
+            <p>If I should be mistaken in some Criticisms, (which I hope I am not,) yet how unhappy I, if after so many years pains in a Subject so improveable, there should be no<g ref="char:EOLhyphen"/>thing worth gathering up.</p>
+            <p>If incouraged to proceed, I intend to apply my self to the Compiling of a Book of this Subject, which finished (God sparing life and opportunity) I shall attempt the promoting of it by all other means that lies within my power with such Assistants as I can procure, if need be.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Preston,</hi> in Turn-Stile Alley in Holborn. 1672.</p>
+            <pb facs="tcp:32981:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
